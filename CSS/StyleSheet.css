@@ -1,0 +1,117 @@
+
+/* Full site layout */
+body {
+	padding: 0px;
+	margin: 0px;
+	font-family: Roboto, Helvetica, sans-serif;
+}
+/* Home Page Landing Header */
+.Header {
+	background-image: url(https://images.pexels.com/photos/5553037/pexels-photo-5553037.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+	opacity: 0.7;
+	width: 100%;
+	height: 100vh;
+}
+
+.Header h1 {
+	color: #f9f9f9;
+	margin: 0px;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	/* bring your own prefixes */
+	transform: translate(-50%, -50%);
+	font-size: 60px;
+}
+/* Navigation Bar */
+.Navigation_Bar {
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, 0%);
+}
+.Navigation_Bar ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+.Navigation_Bar ul li {
+	float: left;
+	padding: 10px;
+	margin: 10px;
+}
+.Navigation_Bar ul li a {
+	display: block;
+	text-decoration: none;
+	padding: 4px 20px!important;
+	color: #141414;
+	border: 1px solid #ccc!important;
+	border-radius: 16px;
+	background-color: #efcdb8;
+}
+.Navigation_Bar ul li a:hover {
+	background-color: #fff;
+}
+/* Body */
+.Main {
+	margin: 200px 220px;
+}
+.Main img {
+	max-width: 100%;
+}
+.Main_Section {
+	margin: 0px 0px 100px;
+}
+/* Footer */
+.Footer {
+	background-color: #efcdb8;
+	width: 100%;
+	height: 100%;
+	padding: 110px 0px;
+	text-align: center;
+}
+.Copy_Right {
+	position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+/* Service pages */
+.Header_Services {
+	text-align: center;
+	padding: 100px 0px;
+}
+.Body_Services {
+	margin: 200px 220px;
+}
+.Body_Services ul {
+	list-style-type: none;
+}
+.Body_Services ul li {
+	padding: 25px 0px;
+}
+.Body_Services ul li a {
+	text-decoration: none;
+	border: 1px solid #ccc!important;
+	padding: 4px 20px!important;
+	border-radius: 16px;
+	color: #000;
+}
+.Body_Services ul li a:hover {
+	background-color: #efcdb8;
+}
+/* Services Pages */
+code {
+	background-color: #f3e6d6;
+	padding: 8px;
+	border-radius: 5px;
+}
+.Main img{
+	box-shadow: 0px 0px 4px 1px #888888;
+	margin:	20px 0px !important;
+}
+
+
+
+
+
+
+

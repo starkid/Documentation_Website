@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Server</title>
+	<link rel="stylesheet" type="text/css" href="..\css\StyleSheet.css">
+</head>
+<body>
+	<div class="Header">
+		<h1>Documentation</h1>
+		<div class="Navigation_bar">
+			<ul>
+				<li><a href="..\Home.html">Home</a></li>
+				<li><a href="Server.html">Server</a></li>
+				<li><a href="Websites.html">Websites</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="Services">
+		<h2>Server Projects</h2>
+		<ul>
+			<li><a href="Services/Hardware.html">Hardware</a></li>
+			<li><a href="">Installing windows Server 2019</a></li>
+			<li><a href="">Setting up remote conection for Admin</a></li>
+		</ul>
+	</div>
+	<div class="Footer">
+		
+	</div>
+</body>
+</html>

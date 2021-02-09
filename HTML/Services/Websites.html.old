@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Websites</title>
+	<link rel="stylesheet" type="text/css" href="..\css\StyleSheet.css">
+</head>
+<body>
+	<div class="Header">
+		<h1>Documentation</h1>
+		<div class="Navigation_bar">
+			<ul>
+				<li><a href="..\Home.html">Home</a></li>
+				<li><a href="Server.html">Server</a></li>
+				<li><a href="Websites.html">Websites</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="Services">
+		<h2>Website Projects</h2>
+		<ul>
+			<li><a href="Services/Documentation_website.html">Documentation website</a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+		</ul>
+	</div>
+	<div class="Footer">
+		
+	</div>
+</body>
+</html>
